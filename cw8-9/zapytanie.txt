@@ -1,3 +1,0 @@
-select first_name,last_name into BEST_CUSTOMERS_404002 
-from CUSTOMERS_404002 
-where ST_DistanceSpheroid( cast(ST_SetSRID( ST_Point(lat, long), 4326) as geometry), cast(ST_SetSRID( ST_Point(41.39988501005976, -75.67329768604034), 4326) as geometry),'SPHEROID["WGS 84",6378137,298.257223563]') <50000;
