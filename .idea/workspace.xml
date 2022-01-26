@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2224a1f8-495e-45de-b99b-5561cb572c61" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/cw8-9/cw8-9.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cw8-9/zapytanie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JAVA/stos_do_oddania" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,6 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643049436720</updated>
       <workItem from="1643049450896" duration="26000" />
+      <workItem from="1643050995163" duration="670000" />
     </task>
     <servers />
   </component>
